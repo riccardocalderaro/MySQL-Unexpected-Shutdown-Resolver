@@ -1,0 +1,1 @@
+# MySQL-Unexpected-Shutdown-Resolver
